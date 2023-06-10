@@ -15,7 +15,7 @@ TextEditingController pdoc=TextEditingController();
         backgroundColor: Colors.white,
         appBar: AppBar(
           backgroundColor: Colors.red,
-          title: Text("Covid App"),
+          title: Text("Covid App after github installation"),
           centerTitle: true,
         ),
         body: SingleChildScrollView(
